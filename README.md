@@ -23,12 +23,6 @@ I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating
 
 ---
 
-### 📊 GitHub Stats
-
-![Partha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Partha9749&show_icons=true&theme=github_dark&hide_title=true)
-
----
-
 ### 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Partha9749)

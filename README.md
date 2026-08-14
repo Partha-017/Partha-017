@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub
+#  Hi there! Welcome to my GitHub
 
 I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating cool projects with clean, creative code.
 
@@ -18,8 +18,8 @@ I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating
 
 | Project Name | Description | Tech Used |
 | ------------ | ----------- | --------- |
-| [💌 Love Request Web](https://github.com/Partha9749/love-request-web) | A fun and creative love proposal site | HTML, CSS, JS |
-| [🎨 CrazyCoder Portfolio](#) | A personal portfolio with animations and effects | HTML, CSS, Tailwind, React |
+| [💌 Love Request Web](https://github.com/Partha-017/love-request-web) | A fun and creative love proposal site | HTML, CSS, JS |
+
 
 ---
 
@@ -27,6 +27,5 @@ I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Partha9749)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/partha_017?igsh=d28wZXVtcGVndm1z)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/partha-mandal-a3b71b37a)
 

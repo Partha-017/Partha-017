@@ -1,15 +1,16 @@
-#  Hi there! Welcome to my GitHub
+#  👋 Hi, I'm Partha!
+🎓 Computer Science Student | 💻 Developer in Progress | 🚀 Building & Learning
 
-I'm a passionate **Full Stack Developer** and tech enthusiast who loves creating cool projects with clean, creative code.
+I'm a Computer Science Student and tech enthusiast who enjoys building projects, learning new technologies, and exploring creative ideas.
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I work on **Web Development**, **Python Projects**, and **Creative Frontends**
+- 🎓 Computer Science Student
+- 💻 Building projects with Python, JavaScript, HTML, CSS & SQL
 - 🌱 Currently learning: **React.js, Flask, and AI tools**
-- ⚒️ Tech I use: `HTML` • `CSS` • `JavaScript` • `Python` • `SQL`
-- 🎯 Goals: Build impactful open-source tools and continuously level up my dev skills
+- 🎯 Goal: Keep learning, build meaningful projects, and grow as a developer.
 - ✨ Fun Fact: I build creative tools like 💖 Love Request Web Apps and 🔬 Periodic Table Lyrics!
 
 ---
